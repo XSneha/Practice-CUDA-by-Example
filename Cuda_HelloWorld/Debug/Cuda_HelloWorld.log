@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Atharva\source\repos\Cuda_HelloWorld\Source.cpp(3,12): error C2144: syntax error: 'void' should be preceded by ';'
+C:\Users\Atharva\source\repos\Cuda_HelloWorld\Source.cpp(3,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Atharva\source\repos\Cuda_HelloWorld\Source.cpp(8,10): error C2059: syntax error: '<'
